@@ -1,0 +1,12 @@
+/assets/books/**/*
+
+# Rust / Cargo
+/target
+Cargo.lock
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
